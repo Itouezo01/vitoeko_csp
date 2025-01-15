@@ -17,3 +17,25 @@
     width: 100%;
     margin: 10px 10px;
 }
+
+#cardpromo {
+    width: 70%;
+    margin: 0 auto;
+    border: none;
+    padding-left: -10px;
+}
+
+#promo{
+    border: none;
+}
+#cardpromo img {
+    transition: transform 0.3s ease;
+  }
+
+  #cardpromo img:hover {
+    transform: scale(1.1); 
+  }
+#promo img {
+    width: 70%;
+    margin: 0 auto;
+}   
