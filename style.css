@@ -1,0 +1,19 @@
+#slider {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+
+.carousel {
+    width: 70%; 
+}
+
+#search-bar {
+    margin-left: auto;
+    width: 350px;
+}
+#lokasi {
+    width: 100%;
+    margin: 10px 10px;
+}
